@@ -18,7 +18,7 @@ aber ich hoffe du freust dich trotzdem auf nen schönen Nachmittag bei uns.
 
 Wähle einfach einen Termin und gib uns Bescheid:
 - [ ] 21. July
-- [ ] 11. August
+- [x] 11. August
 - [ ] 18. August
 - [ ] ...
 
